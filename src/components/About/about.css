@@ -1,0 +1,14 @@
+.about-section{
+    background-color: #e3f5f0;
+}
+.count-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 2rem;
+    /* text-align: center; */
+}
+.count-section h4{
+    color: #059773;
+    font-weight: 900;
+}

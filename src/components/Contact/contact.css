@@ -1,0 +1,30 @@
+.contact-section{
+    padding: 0 2rem;
+    position: relative;
+    overflow: hidden;
+}
+form .form-control {
+    border: 1px solid #059773!important;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1)!important;
+    padding: 20px;
+    outline: 0;
+}
+/* .map-container{
+    position: relative!important;
+    height: 400px;
+    width: 100px;
+} */
+.map-wrapper{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    z-index: 1;
+}
+@media (max-width: 768px){
+    .map-wrapper{
+        margin: 1rem 0;
+        position: relative;
+        left: 0;
+    }
+}

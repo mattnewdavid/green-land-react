@@ -1,0 +1,29 @@
+.footer{
+    background-color: #059773;
+    display: flex;
+    /* justify-content: center; */
+    color: white;
+    align-items: center;
+    padding: 5rem 5rem;
+}
+.footer-icon-class{
+    margin: 20px 0;
+}
+.footer-icon{
+    font-size: 20px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.footer-icon:hover{
+    color: #d5d3d3;
+}
+.footer-links a{
+    display: block;
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 1rem 0;
+}
+.footer-links a:hover{
+    color: #d5d3d3;
+}

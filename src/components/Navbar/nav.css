@@ -1,0 +1,19 @@
+.navbar{
+    padding: 1rem 1.5rem;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 700;
+    color: #059773!important;
+}
+.navbar-brand span{
+    color: #242323;
+}
+.navbar-nav{
+    width: 100%;
+    justify-content: flex-end;
+}
+.nav-link{
+    margin: 0 20px;
+}

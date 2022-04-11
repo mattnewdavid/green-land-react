@@ -1,0 +1,19 @@
+.list-group{
+  margin: 2rem 0;
+}
+.list-group-item{
+  padding: 1rem 2rem;
+  font-size: 15px;
+  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 10px 0;
+  transition: all ease-in-out .4s;
+}
+.list-group-item:hover{
+    transform: translateX(-5%);
+}
+.fa-check{
+    color: #059773;
+    font-size: 20px;
+    margin-right: 1rem;
+}

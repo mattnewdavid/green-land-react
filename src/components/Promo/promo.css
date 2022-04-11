@@ -1,0 +1,16 @@
+.promo-section{
+    /* height: 300px; */
+    margin: 5rem 0!important;
+    background-image: linear-gradient(to right, rgba(1, 68, 52, 0.9), rgba(4, 130, 98, 0.9)),url('about-us.jpg');
+    padding: 10rem 4rem;
+    color: rgb(5, 151, 115);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.promo-section p{
+    color: #d7d3d3;
+    margin: 2rem 10rem;
+}
