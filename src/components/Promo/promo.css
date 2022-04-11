@@ -14,3 +14,11 @@
     color: #d7d3d3;
     margin: 2rem 10rem;
 }
+@media (max-width:768px){
+    .promo-section{
+        padding: 5rem 1rem;
+    }
+    .promo-section p{
+        margin: 1rem;
+    }
+}

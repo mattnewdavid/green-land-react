@@ -1,6 +1,7 @@
 import React from 'react'
 import { CustomButton } from '../Button/Button';
 import "./about.css"
+import CountUp from "react-countup";
 
 export default function About() {
   return (
@@ -43,15 +44,16 @@ export default function About() {
           </div>
           <div className="count-section">
             <div>
-              <h4>200+</h4>
+
+              <h4><CountUp start={-20} end={200} duration={10}/></h4>
               <p>Happy Clients</p>
             </div>
             <div>
-              <h4>200+</h4>
+              <h4><CountUp start={-20} end={500} duration={10} /></h4>
               <p>Completed Projects</p>
             </div>
             <div>
-              <h4>200+</h4>
+              <h4><CountUp start={-20} end={1000} duration={10} /></h4>
               <p> Reviews</p>
             </div>
           </div>
