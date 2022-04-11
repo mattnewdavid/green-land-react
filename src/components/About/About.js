@@ -32,7 +32,7 @@ export default function About() {
               ad magnam inventore animi. Lorem ipsum dolor sit amet consectetur
               adipisicing elit. Voluptates perspiciatis porro in, possimus ea
               nam nemo recusandae quidem iste libero nobis officia accusamus
-              quis quam consectetur ad magnam inventore animi.
+              quis quam consectetur ad magnam inventore animi. Added Text Here
             </p>
             <CustomButton
               buttonSize="btn--medium"
