@@ -23,7 +23,7 @@ const LiteCarousel = () => {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
+          <h3>Building Your Reality</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
             perspiciatis porro in, possimus ea nam nemo recusandae quidem iste
@@ -46,7 +46,7 @@ const LiteCarousel = () => {
           alt="Second slide"
         />
         <Carousel.Caption>
-          <h3>Second slide label</h3>
+          <h3>Building your Advantage</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
             perspiciatis porro in, possimus ea nam nemo recusandae quidem iste
@@ -69,7 +69,7 @@ const LiteCarousel = () => {
           alt="Third slide"
         />
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>Building Your Future</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
             perspiciatis porro in, possimus ea nam nemo recusandae quidem iste

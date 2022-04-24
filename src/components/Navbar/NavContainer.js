@@ -35,7 +35,7 @@ function NavContainer (props){
           sticky="top"
         >
           <Navbar.Brand href="#home">
-            Tech<span>Point</span>
+            green<span>land</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
@@ -44,16 +44,12 @@ function NavContainer (props){
               <Nav.Link href="#pricing">About Us</Nav.Link>
               <Nav.Link href="#pricing">Affiliates</Nav.Link>
               <NavDropdown title="Services" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1">Web Technology</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
-                  Another action
+                  Systems Management
                 </NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.3">
-                  Something
-                </NavDropdown.Item>
-                <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">
-                  Separated link
+                  AI Intelligence
                 </NavDropdown.Item>
               </NavDropdown>
               <CustomButton

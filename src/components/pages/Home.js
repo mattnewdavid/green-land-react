@@ -1,6 +1,6 @@
 import React from 'react'
 import "bootstrap/dist/css/bootstrap.min.css"
-import LiteCarousel from '../LiteCarousel/LiteCarousel'
+import HeroSection from '../HeroSection/HeroSection'
 import LiteCard from '../Card/Card'
 import { CustomButton } from '../Button/Button';
 import { ListGroup } from 'react-bootstrap';
@@ -38,7 +38,7 @@ export default function Home() {
     ];
   return (
     <div className="home">
-      <LiteCarousel />
+      <HeroSection />
       <div className="section service-section my-5 mx-auto" data-aos="fade-up">
         <div className="my-5 section-heading">
           <h3 className="text-center section-title">Services Section</h3>

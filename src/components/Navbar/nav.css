@@ -17,3 +17,23 @@
 .nav-link{
     margin: 0 20px;
 }
+.navbar-toggler{
+    outline: 0!important;
+    border: 0;
+}
+.navbar-toggler:focus{
+    outline: none!important;
+    box-shadow: none!important;
+}
+.dropdown-menu{
+    border: 0;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.1);
+}
+.dropdown-menu a{
+    margin: 10px 0;
+    transition: all ease .4s;
+}
+.dropdown-menu a:hover{
+    background-color: #059773;
+    color: #fff;
+}

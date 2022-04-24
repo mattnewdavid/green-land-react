@@ -41,7 +41,7 @@ export default function Footer() {
     <div class="footer">
       <div className="row">
         <div className="col-md-4 mx-2">
-          <h2>TechPoint</h2>
+          <h2>greenland</h2>
           <div className="footer-icon-class">
             <FontAwesomeIcon icon={faFacebookF} className="footer-icon" />
             <FontAwesomeIcon icon={faInstagram} className="footer-icon" />
