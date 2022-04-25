@@ -12,9 +12,7 @@ export default function LiteCard({ key, title, desc, btnText, image }) {
           <Card.Title>{title}</Card.Title>
           <Card.Text className='text-center'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-            perspiciatis porro in, possimus ea nam nemo recusandae quidem iste
-            libero nobis officia accusamus quis quam consectetur ad magnam
-            inventore animi.
+            perspiciatis porro in.
           </Card.Text>
           {/* <Button variant="primary" className="container">{btnText}</Button> */}
           <CustomButton
