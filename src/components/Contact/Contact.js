@@ -30,7 +30,7 @@ export default function Contact() {
             <CustomButton
               buttonSize="btn--medium"
               buttonStyle="btn--primary"
-              link="/services"
+              link="/"
             >
               Submit
             </CustomButton>

@@ -18,7 +18,7 @@ export default function LiteCard({ key, title, desc, btnText, image }) {
           <CustomButton
             buttonSize="btn--medium"
             buttonStyle="btn--primary"
-            link="/services"
+            link="/"
             className="fluid"
           >
             Learn More

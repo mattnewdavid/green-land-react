@@ -33,7 +33,7 @@ const LiteCarousel = () => {
           <CustomButton
             buttonSize="btn--large"
             buttonStyle="btn--primary"
-            link="/services"
+            link="/"
           >
             Learn More
           </CustomButton>
@@ -56,7 +56,7 @@ const LiteCarousel = () => {
           <CustomButton
             buttonSize="btn--large"
             buttonStyle="btn--primary"
-            link="/services"
+            link="/"
           >
             Learn More
           </CustomButton>
@@ -79,7 +79,7 @@ const LiteCarousel = () => {
           <CustomButton
             buttonSize="btn--large"
             buttonStyle="btn--primary"
-            link="/services"
+            link="/"
           >
             Learn More
           </CustomButton>
